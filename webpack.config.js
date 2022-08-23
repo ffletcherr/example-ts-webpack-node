@@ -8,7 +8,7 @@ module.exports = {
     libraryTarget: "umd",
     globalObject: "this",
     path: path.resolve(__dirname, "dist"),
-    clean: true
+    clean: true,
   },
   module: {
     rules: [
