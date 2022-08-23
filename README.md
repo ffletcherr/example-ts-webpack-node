@@ -16,3 +16,7 @@ $ node test.js
 ```bash
 $ http-server .
 ```
+### Check ts-node
+```bash
+$ npx ts-node test.ts
+```
